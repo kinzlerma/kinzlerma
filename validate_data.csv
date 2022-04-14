@@ -1,4 +1,4 @@
-,O3 Mean,O3 1st Max Value,O3 1st Max Hour,O3 AQI,CO Mean,CO 1st Max Value,CO 1st Max Hour,CO AQI,SO2 Mean,SO2 1st Max Value,SO2 1st Max Hour,SO2 AQI,NO2 Mean,NO2 1st Max Value,NO2 1st Max Hour,NO2 AQI,Mean AQI
+Rownum,O3 Mean,O3 1st Max Value,O3 1st Max Hour,O3 AQI,CO Mean,CO 1st Max Value,CO 1st Max Hour,CO AQI,SO2 Mean,SO2 1st Max Value,SO2 1st Max Hour,SO2 AQI,NO2 Mean,NO2 1st Max Value,NO2 1st Max Hour,NO2 AQI,Mean AQI
 470556,0.040059,0.052,10,48,0.379167,0.5,6,6.0,0.7875,2.0,6,3.0,8.6625,32.4,6,30,21.75
 225211,0.034294,0.066,10,87,0.3875,0.7,6,8.0,1.434783,7.0,7,10.0,25.842105,39.0,23,37,35.5
 375782,0.034588,0.068,10,93,0.666667,0.9,7,10.0,0.378261,0.7,4,0.0,27.347826,45.5,9,42,36.25
