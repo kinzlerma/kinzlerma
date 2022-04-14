@@ -1,0 +1,25 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.9.7
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+model_uuid: 5fc7124cf614421fa5f4072ae74e8a57
+run_id: d36d6c83e5f94722a881936ed9a58370
+signature:
+  inputs: '[{"name": "O3 Mean", "type": "double"}, {"name": "O3 1st Max Value", "type":
+    "double"}, {"name": "O3 1st Max Hour", "type": "long"}, {"name": "O3 AQI", "type":
+    "long"}, {"name": "CO Mean", "type": "double"}, {"name": "CO 1st Max Value", "type":
+    "double"}, {"name": "CO 1st Max Hour", "type": "long"}, {"name": "CO AQI", "type":
+    "double"}, {"name": "SO2 Mean", "type": "double"}, {"name": "SO2 1st Max Value",
+    "type": "double"}, {"name": "SO2 1st Max Hour", "type": "long"}, {"name": "SO2
+    AQI", "type": "double"}, {"name": "NO2 Mean", "type": "double"}, {"name": "NO2
+    1st Max Value", "type": "double"}, {"name": "NO2 1st Max Hour", "type": "long"},
+    {"name": "NO2 AQI", "type": "long"}, {"name": "Mean AQI", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2022-04-14 21:22:03.248233'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/maxim/DHBW_Projekt/mlruns/0/d36d6c83e5f94722a881936ed9a58370/artifacts
+end_time: 1649971346456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d36d6c83e5f94722a881936ed9a58370
+run_uuid: d36d6c83e5f94722a881936ed9a58370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649971323217
+status: 3
+tags: []
+user_id: maxim
